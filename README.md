@@ -1,4 +1,4 @@
-# SendingEmailUsingGmail
+# Seending an email using Gmail
 
 ### [Victor Nieves Sanchez](https://twitter.com/VictorNS69)
 
